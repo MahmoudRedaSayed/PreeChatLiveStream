@@ -1,0 +1,14 @@
+.videos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+}
+
+.video-player{
+    width: 100%;
+    background-color: black;
+    height: 300px;
+}
+#user2{
+    display: none;
+}
